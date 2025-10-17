@@ -82,10 +82,8 @@ Currently diving deep into **Machine Learning**, **Explainable AI (XAI)**, and *
 | Data Science Course | 365 Carrers | 2025 |
 | Prompt Engineering for AI | Udemy | 2025 |
 | Machine Learning | Skill India  | 2024 |
-| Full Stack Development Bootcamp | freeCodeCamp | 2024 |
-| SQL for Data Science | Coursera | 2023 |
-| AI Ethics & Governance | IBM Skills Network | 2025 |
-| Cloud Computing Basics (AWS) | AWS Educate | 2025 |
+| CCNA | Ciaco | 2025 |
+
 
 ---
 
@@ -108,7 +106,7 @@ Currently diving deep into **Machine Learning**, **Explainable AI (XAI)**, and *
 <p align="center">
   <a href="mailto:antosamchrist18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/anto-sam-christ-a-549a75258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://antosamchrist.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://antosamchrista.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://instagram.com/me_carpediem"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@antosam5052"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
