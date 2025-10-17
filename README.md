@@ -82,7 +82,7 @@ Currently diving deep into **Machine Learning**, **Explainable AI (XAI)**, and *
 | Data Science Course | 365 Carrers | 2025 |
 | Prompt Engineering for AI | Udemy | 2025 |
 | Machine Learning | Skill India  | 2024 |
-| CCNA | Ciaco | 2025 |
+| CCNA | Cisco | 2025 |
 
 
 ---
